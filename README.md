@@ -29,6 +29,8 @@ The goal is for you to be able to find what you're looking for fast, whether you
 
 [List of protein features](https://docs.google.com/spreadsheets/d/172l6AUkrFuAEUf2WOngdpZwuumLaQ0EeclDqBlsGuqg) (central collection of information (e.g. meaning, how to determine) on all protein/amino acid features we have seen used in the literature)
 
+[List of models and results from the literature](https://docs.google.com/spreadsheets/d/1B2Oichih2ULUcHTRMuYThzdM8plzfmSx-v9ggxMMeCk) (a bit more concise of an overview than Zotero summaries to properly compare paper results and models)
+
 ### Tools for team organization
 
 We use these tools to communicate with each other, as programming frameworks, or to keep data and visualizations in a central place. 
