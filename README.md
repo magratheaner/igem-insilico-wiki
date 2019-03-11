@@ -43,7 +43,7 @@ It may be advisable to put these links into an iGEM bookmark folder in your brow
 
 - [Slack workspace](https://igem2019.slack.com) (main way of communicating progress and discussing problems)
 - [Trello group](https://trello.com/igem20192) (main way of keeping track of tasks and their individual progress)
-- [Box.UP storage](https://boxup.uni-potsdam.de/index.php/s/36GhHodbtqGx6Ul) (50GB of storage for mirroring datasets and visualizations in a central location, password is `iGEM2019`)
+- [Box.UP storage](https://boxup.uni-potsdam.de/index.php/s/36GhHodbtqGx6Ul) (50GB of storage for mirroring datasets and visualizations in a central location, ask for password in Slack)
 - [Zotero group](https://www.zotero.org/groups/2232261/igem_potsdam_2019) (repository for papers and summaries thereof, for a usage guide see [here](https://docs.google.com/document/d/131G6tTeI5Y4NjsgYtGfrgqzANEyL1vli0CHTWTwS-9w))
 
 #### Programming tools and frameworks
