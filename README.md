@@ -106,13 +106,7 @@ Mirrored copy on our BoxUp under `/in silico/Data/HotMuSiC`
 
 ### Merck & Co
 
-#### Extracted training set
-
-Only the sheet containing the training set extracted from the multiple-sheet original document as Python-readable file for learning purposes.
-
-- [pickle files and extraction code on Google Drive](https://drive.google.com/drive/folders/1k6PtfZB9-WvsvuSM6afV6luCzlR2RlMr)
-
-#### Original Merck & Co
+#### original Merck & Co (v1.0)
 
 This dataset is based on HotMuSiC, but adds some pre-calculated features to each mutant, and two interesting validation sets.
 The original document consists of multiple sheets, including the training set used in the paper, prospective and respective validation sets, and explanations of features.
