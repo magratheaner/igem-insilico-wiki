@@ -15,6 +15,7 @@ The goal is for you to be able to find what you're looking for fast, whether you
 	- [BacDive+](#bacdive)
 	- [ProtDataTherm](#protdatatherm)
 	- [HotMuSiC](#hotmusic)
+	- [Merck & Co](#merck--co)
 - [Experiments](#experiments)
  	- [by task](#by-task)
 	- [by dataset](#by-dataset)
@@ -101,7 +102,23 @@ The original version of the HotMuSiC dataset as created by the research group of
 
 [Official download from `babylone.ulb.ac.be`](http://babylone.ulb.ac.be/HotPots/index.php)
 
-Mirrored copy on our BoxUp under `/in silico/Data/HotMuSiC` 
+Mirrored copy on our BoxUp under `/in silico/Data/HotMuSiC`
+
+### Merck & Co
+
+#### Extracted training set
+
+Only the sheet containing the training set extracted from the multiple-sheet original document as Python-readable file for learning purposes.
+
+- [pickle files and extraction code on Google Drive](https://drive.google.com/drive/folders/1k6PtfZB9-WvsvuSM6afV6luCzlR2RlMr)
+
+#### Original Merck & Co
+
+This dataset is based on HotMuSiC, but adds some pre-calculated features to each mutant, and two interesting validation sets.
+The original document consists of multiple sheets, including the training set used in the paper, prospective and respective validation sets, and explanations of features.
+
+- path on Box.UP: `in silico/Data/Merck&Co/pone.0203819.s001.xlx` (be advised, excel files can contain macros that execute malicious code on your machine, so you may want to use the [Google spreadsheet import](https://docs.google.com/spreadsheets/d/17VUeeIs0H9EWpeE8z9rAJzmcDPG-gkfV5-pNhekZBIk/edit?usp=sharing))
+- [official download link in this paper](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0203819)
 
 ## Experiments
 
