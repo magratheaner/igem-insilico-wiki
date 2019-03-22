@@ -117,7 +117,8 @@ Only the sheet containing the training set extracted from the multiple-sheet ori
 This dataset is based on HotMuSiC, but adds some pre-calculated features to each mutant, and two interesting validation sets.
 The original document consists of multiple sheets, including the training set used in the paper, prospective and respective validation sets, and explanations of features.
 
-- path on Box.UP: `in silico/Data/Merck&Co/pone.0203819.s001.xlx` (be advised, excel files can contain macros that execute malicious code on your machine, so you may want to use the [Google spreadsheet import](https://docs.google.com/spreadsheets/d/17VUeeIs0H9EWpeE8z9rAJzmcDPG-gkfV5-pNhekZBIk/edit?usp=sharing))
+- [mirrored on Google Drive](https://drive.google.com/open?id=1atGJIBhfpwpymsMT_65vNiusW19GeeyH)
+- path on Box.UP: `in silico/Data/Merck&Co/pone.0203819.s001.xlx`
 - [official download link in this paper](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0203819)
 
 ## Experiments
