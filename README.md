@@ -135,13 +135,13 @@ This section is meant to be a collection of all the best (status-quo) models we 
 
 #### ProtDataTherm
 
-[Classifiers by Aaron Spieler](https://drive.google.com/drive/folders/1XfRrmHpHpM5Lxo46Wg2_ogqW8Waw-YV2?usp=sharing) (Upto: .89 AUC)
-[Examplary notebook to do ML on ProtDataTherm using keras and google cloud TPUs](https://colab.research.google.com/drive/17kdfRemBWnWsjD4VzUrNjAaGLiw8qOmM)
-[(raw) Evaluation of .89 AUC model on HotMuSic](https://colab.research.google.com/drive/1_QyNv4oO2pPZruSp7gCGU829YZz8CZxc) (.68 AUC)
+- [Classifiers by Aaron Spieler](https://drive.google.com/drive/folders/1XfRrmHpHpM5Lxo46Wg2_ogqW8Waw-YV2?usp=sharing) (Upto: .89 AUC)
+- [Examplary notebook to do ML on ProtDataTherm using keras and google cloud TPUs](https://colab.research.google.com/drive/17kdfRemBWnWsjD4VzUrNjAaGLiw8qOmM)
+- [(raw) Evaluation of .89 AUC model on HotMuSic](https://colab.research.google.com/drive/1_QyNv4oO2pPZruSp7gCGU829YZz8CZxc) (.68 AUC)
 
 #### Merck & Co
 
-[Regressor on T1626 by Aaron Spieler](https://colab.research.google.com/drive/1wMmrCsL-HELmEPUpZt6rLgQ2I0x7-ryo) (Upto: 2.53 MAE)
+- [Regressor on T1626 by Aaron Spieler](https://colab.research.google.com/drive/1wMmrCsL-HELmEPUpZt6rLgQ2I0x7-ryo) (Upto: 2.53 MAE)
 
 
 #### BacDive+
